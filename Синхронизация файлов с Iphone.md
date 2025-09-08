@@ -1,3 +1,7 @@
+```
+cd Obsidian/
+```
+
 В Terminal
 ```
 git add .
